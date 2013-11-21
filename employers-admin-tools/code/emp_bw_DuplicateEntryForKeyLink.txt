@@ -1,0 +1,398 @@
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US 0
+US 1
+US 2
+US 3
+US 4
+US 5
+US 6
+US 7
+US 8
+US 9
+US A
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'afi-usa' for key 'link'")
+AFI-USA | United States | 13228618
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'agc-capital-inc' for key 'link'")
+AGC Capital, Inc. | United States | 98245144
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'alberto-culver-usa-inc' for key 'link'")
+Alberto-Culver USA, Inc. | United States | 4245249
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'all-american-care-centers-inc' for key 'link'")
+All-American Care Centers, Inc. | United States | 83195009
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'allcom-inc' for key 'link'")
+AllCom, Inc. | United States | 4457713
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'alliance-agency' for key 'link'")
+Alliance Agency | United States | 37344659
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'als-llc' for key 'link'")
+ALS, LLC | United States | 32823263
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'alternative-energy-technology-inc' for key 'link'")
+Alternative Energy Technology, Inc. | United States | 21907599
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'american-president-lines-ltd' for key 'link'")
+American President Lines, Ltd. | United States | 127067720
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'american-transport-inc' for key 'link'")
+American Transport, Inc. | United States | 23036062
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'apm-inc' for key 'link'")
+APM, Inc. | United States | 4373243
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'asp-inc' for key 'link'")
+Asp, Inc. | United States | 4595018
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'augur' for key 'link'")
+Augur | United States | 240043188
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'axis-communications-inc' for key 'link'")
+Axis Communications, Inc. | United States | 117741207
+US B
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'ballard' for key 'link'")
+Ballard | United States | 1041245
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'banyan-llc' for key 'link'")
+Banyan LLC | United States | 131020814
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'bec' for key 'link'")
+BEC | United States | 112991713
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'beverage-creations-inc' for key 'link'")
+Beverage Creations , Inc. | United States | 643453
+US C
+Killed
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US C
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'capstone-inc' for key 'link'")
+Capstone, Inc. | United States | 24673655
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'chc' for key 'link'")
+CHC | United States | 53488624
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'cherokee-inc' for key 'link'")
+Cherokee, Inc. | United States | 6579167
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'citicorp' for key 'link'")
+Citicorp | United States | 173007
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'citizens-bancshares-inc' for key 'link'")
+Citizens Bancshares, Inc. | United States | 3698080
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'clarity' for key 'link'")
+Clarity | United States | 429417
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'clearpoint-resources-inc' for key 'link'")
+ClearPoint Resources, Inc | United States | 49100158
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'commonwealth-communications-llc' for key 'link'")
+Commonwealth Communications, LLC | United States | 23957929
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'community-broadcast-group-inc' for key 'link'")
+Community Broadcast Group, Inc. | United States | 123718
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'concurrent-technologies-inc' for key 'link'")
+Concurrent Technologies, Inc. | United States | 25390063
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'cornerstone' for key 'link'")
+Cornerstone | United States | 52781440
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'cpp-inc' for key 'link'")
+CP&P, Inc. | United States | 2481356
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'cpr' for key 'link'")
+CPR | United States | 7961029
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'cq-inc' for key 'link'")
+CQ, Inc. | United States | 47874425
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'crl-inc' for key 'link'")
+CRL, Inc. | United States | 22036707
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'crossroads' for key 'link'")
+Crossroads | United States | 11754992
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'csa-inc' for key 'link'")
+CSA, Inc. | United States | 29855956
+US D
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'dickerson-petroleum-inc' for key 'link'")
+Dickerson Petroleum, Inc. | United States | 4550380
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'doctors-hospital' for key 'link'")
+Doctors' Hospital | United States | 12367640
+US E
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'eagle-industries-inc' for key 'link'")
+Eagle Industries Inc. | United States | 29864419
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'ecr-panther-creek-wind-farm-iii-llc' for key 'link'")
+EC&R Panther Creek Wind Farm III, LLC | United States | 100592816
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'emi-inc' for key 'link'")
+EMI, Inc. | United States | 11437737
+Killed
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US E
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'eagle-industries-inc' for key 'link'")
+Eagle Industries Inc. | United States | 29864419
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'ecr-panther-creek-wind-farm-iii-llc' for key 'link'")
+EC&R Panther Creek Wind Farm III, LLC | United States | 100592816
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'emi-inc' for key 'link'")
+EMI, Inc. | United States | 11437737
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'ers-inc' for key 'link'")
+ERS, Inc. | United States | 36854616
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'evine' for key 'link'")
+eVine | United States | 12825067
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US F
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'fincom-inc' for key 'link'")
+FINCOM®, INC. | United States | 1218527
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'fivestar-international' for key 'link'")
+Fivestar International | United States | 113398280
+US G
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'gd-inc' for key 'link'")
+G&D, Inc. | United States | 29926372
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'gas-tech-inc' for key 'link'")
+Gas Tech, Inc. | United States | 2418481
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'gea' for key 'link'")
+Gea | United States | 44787807
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'ghs-llc' for key 'link'")
+GHS, LLC | United States | 21923206
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'gmt-inc' for key 'link'")
+GMT Inc. | United States | 8859533
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'green-energy-group-inc' for key 'link'")
+Green Energy Group, Inc. | United States | 414870
+US H
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'healthsource-inc' for key 'link'")
+Healthsource, Inc. | United States | 277286
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'heartland-bancshares-inc' for key 'link'")
+Heartland Bancshares, Inc. | United States | 3554816
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'hed-inc' for key 'link'")
+Hed Inc. | United States | 29607396
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'heritage-communications-inc' for key 'link'")
+Heritage Communications Inc. | United States | 10879758
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US I
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'innovo-inc' for key 'link'")
+Innovo, Inc. | United States | 22387010
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'integrated-services-group-inc' for key 'link'")
+Integrated Services Group, Inc. | United States | 11734253
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'is-inc' for key 'link'")
+IS, Inc. | United States | 30296
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'it-holdings' for key 'link'")
+IT Holdings | United States | 225197646
+US J
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'j-n-distributors-inc' for key 'link'")
+J N Distributors, Inc. | United States | 128310094
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'jamco-inc' for key 'link'")
+Jamco, Inc. | United States | 6771479
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US K
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'kewill-inc' for key 'link'")
+Kewill, Inc. | United States | 2376180
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'knight-industries-inc' for key 'link'")
+Knight Industries, Inc. | United States | 54768740
+US L
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'liberty-health-plan-inc' for key 'link'")
+Liberty Health Plan, Inc. | United States | 28982264
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'lone-star-llc' for key 'link'")
+Lone Star, LLC | United States | 139893735
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'lucas' for key 'link'")
+Lucas. | United States | 25816835
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'lucky-star-industries-inc' for key 'link'")
+Lucky Star Industries, Inc. | United States | 4550695
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US M
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'mercury' for key 'link'")
+Mercury | United States | 100062327
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'midland' for key 'link'")
+Midland | United States | 25614946
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'missouri-american-water-company' for key 'link'")
+Missouri-American Water Company | United States | 4382690
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'mtb' for key 'link'")
+MTB | United States | 37616975
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US N
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'ncb-fsb' for key 'link'")
+NCB, FSB | United States | 22732896
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'netmed-inc' for key 'link'")
+NetMed, Inc. | United States | 43477216
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'nexusgroup' for key 'link'")
+NexusGroup | United States | 744408
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'nic-inc' for key 'link'")
+NIC, Inc. | United States | 216458510
+US O
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'oceangroup' for key 'link'")
+Oceangroup | United States | 20745380
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'oea-inc' for key 'link'")
+OEA, Inc. | United States | 293200
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'online-enterprises-inc' for key 'link'")
+Online Enterprises, Inc. | United States | 12399693
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'outsource-holdings-inc' for key 'link'")
+Outsource Holdings, Inc. | United States | 4220955
+
+
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US P
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'pam-holdings-inc' for key 'link'")
+PAM Holdings, Inc. | United States | 3176554
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'paradise' for key 'link'")
+Paradise | United States | 217302308
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'pharmacia-upjohn-company-llc' for key 'link'")
+Pharmacia & Upjohn Company, LLC | United States | 311498
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'potomac-creek-associates-llc' for key 'link'")
+Potomac Creek Associates, L.L.C. | United States | 4322655
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'pps-inc' for key 'link'")
+PPS, Inc. | United States | 4848620
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'promedica' for key 'link'")
+ProMedica | United States | 1502216
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'protectionplus' for key 'link'")
+ProtectionPlus | United States | 108406753
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'puma' for key 'link'")
+Puma | United States | 62445494
+US Q
+
+
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US R
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'racon-inc' for key 'link'")
+Racon, Inc. | United States | 772556
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'real-estate-services-group-inc' for key 'link'")
+Real Estate Services Group, Inc. | United States | 2994771
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'resolution' for key 'link'")
+Resolution | United States | 226830054
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'rex' for key 'link'")
+REX | United States | 207183902
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'rmj-inc' for key 'link'")
+RMJ, Inc. | United States | 114604940
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'rti-inc' for key 'link'")
+RTI, Inc. | United States | 187995
+US S
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'schwab-industries-inc' for key 'link'")
+Schwab Industries, Inc. | United States | 4293172
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'scotts-inc' for key 'link'")
+Scott's, Inc. | United States | 22865859
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'secure-energy-llc' for key 'link'")
+Secure Energy, LLC | United States | 36551652
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'sensus-precision-die-casting-inc' for key 'link'")
+Sensus Precision Die Casting, Inc. | United States | 6693004
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'sipco-inc' for key 'link'")
+Sipco, Inc. | United States | 52779196
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'skanska-usa-civil-inc' for key 'link'")
+Skanska USA Civil, Inc. | United States | 9588436
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'smith-services-inc' for key 'link'")
+Smith Services, Inc. | United States | 4470821
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'splash' for key 'link'")
+Splash | United States | 238820645
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'staffpro' for key 'link'")
+StaffPro | United States | 25331643
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'standard-plastics-co-inc' for key 'link'")
+Standard Plastics Co., Inc. | United States | 28999097
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'start-inc' for key 'link'")
+Start, Inc. | United States | 34751
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'startech' for key 'link'")
+Startech | United States | 6665762
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'sti-inc' for key 'link'")
+STI, Inc. | United States | 960420
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'stilo' for key 'link'")
+Stilo | United States | 25966012
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'sun-holdings-llc' for key 'link'")
+Sun Holdings, LLC | United States | 214058560
+Killed
+(serpng)[1008 (xen-oleg-1):code] 
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US S
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'schwab-industries-inc' for key 'link'")
+Schwab Industries, Inc. | United States | 4293172
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'scotts-inc' for key 'link'")
+Scott's, Inc. | United States | 22865859
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'secure-energy-llc' for key 'link'")
+Secure Energy, LLC | United States | 36551652
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'sensus-precision-die-casting-inc' for key 'link'")
+Sensus Precision Die Casting, Inc. | United States | 6693004
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'sipco-inc' for key 'link'")
+Sipco, Inc. | United States | 52779196
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'skanska-usa-civil-inc' for key 'link'")
+Skanska USA Civil, Inc. | United States | 9588436
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'smith-services-inc' for key 'link'")
+Smith Services, Inc. | United States | 4470821
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'splash' for key 'link'")
+Splash | United States | 238820645
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'staffpro' for key 'link'")
+StaffPro | United States | 25331643
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'standard-plastics-co-inc' for key 'link'")
+Standard Plastics Co., Inc. | United States | 28999097
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'start-inc' for key 'link'")
+Start, Inc. | United States | 34751
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'startech' for key 'link'")
+Startech | United States | 6665762
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'sti-inc' for key 'link'")
+STI, Inc. | United States | 960420
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'stilo' for key 'link'")
+Stilo | United States | 25966012
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'sun-holdings-llc' for key 'link'")
+Sun Holdings, LLC | United States | 214058560
+
+
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US T
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'technology-management-inc' for key 'link'")
+Technology Management, Inc. | United States | 1064588
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'title-services-inc' for key 'link'")
+Title Services, Inc. | United States | 699461
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'tsi-inc' for key 'link'")
+TSI Inc. | United States | 140011078
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'tsi-inc' for key 'link'")
+TSI, Inc. | United States | 3679137
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'ttp-inc' for key 'link'")
+TTP Inc. | United States | 145903900
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'twp-inc' for key 'link'")
+TWP, Inc. | United States | 4251371
+
+
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US U
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'unipak' for key 'link'")
+Unipak | United States | 35968
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'usi-inc' for key 'link'")
+USI Inc. | United States | 225061055
+
+
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US V
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'vulcan-industries-inc' for key 'link'")
+Vulcan Industries, Inc. | United States | 158486892
+
+
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US W
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'wesco' for key 'link'")
+Wesco | United States | 109958390
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'wind-international-inc' for key 'link'")
+Wind International, Inc. | United States | 21008472
+
+
+(serpng)[1008 (xen-oleg-1):code] python manage.py runscript emp_update_from_src_bw
+Running emp_update_from_src_bw...
+is_public =  False 
+
+US X
+US Y
+US Z
+-- HMM... ????? --> some mysterious error, skipping...  (1062, "Duplicate entry 'zcomm' for key 'link'")
+ZComm | United States | 9176136
+
+
+
